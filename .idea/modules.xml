@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-annotation/java-annotation.iml" filepath="$PROJECT_DIR$/java-annotation/java-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basic/java-basic.iml" filepath="$PROJECT_DIR$/java-basic/java-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-calculator/java-calculator.iml" filepath="$PROJECT_DIR$/java-calculator/java-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-cglib/java-cglib.iml" filepath="$PROJECT_DIR$/java-cglib/java-cglib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-classloader/java-classloader.iml" filepath="$PROJECT_DIR$/java-classloader/java-classloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-collection/java-collection.iml" filepath="$PROJECT_DIR$/java-collection/java-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-module/java-design-module.iml" filepath="$PROJECT_DIR$/java-design-module/java-design-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-event/java-event.iml" filepath="$PROJECT_DIR$/java-event/java-event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-io/java-io.iml" filepath="$PROJECT_DIR$/java-io/java-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-jvm/java-jvm.iml" filepath="$PROJECT_DIR$/java-jvm/java-jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-lock/java-lock.iml" filepath="$PROJECT_DIR$/java-lock/java-lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-mybatis/java-mybatis.iml" filepath="$PROJECT_DIR$/java-mybatis/java-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-sort/java-sort.iml" filepath="$PROJECT_DIR$/java-sort/java-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-thread/java-thread.iml" filepath="$PROJECT_DIR$/java-thread/java-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread_demo_1/thread_demo_1.iml" filepath="$PROJECT_DIR$/thread_demo_1/thread_demo_1.iml" />
+    </modules>
+  </component>
+</project>

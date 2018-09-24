@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="java-annotation" />
+        <module name="java-basic" />
+        <module name="java-calculator" />
+        <module name="java-cglib" />
+        <module name="java-classloader" />
+        <module name="java-collection" />
+        <module name="java-design-module" />
+        <module name="java-event" />
+        <module name="java-io" />
+        <module name="java-jvm" />
+        <module name="java-lock" />
+        <module name="java-mybatis" />
+        <module name="java-sort" />
+        <module name="java-thread" />
+        <module name="thread_demo_1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java-annotation" target="1.5" />
+      <module name="java-basic" target="1.5" />
+      <module name="java-calculator" target="1.5" />
+      <module name="java-cglib" target="1.5" />
+      <module name="java-classloader" target="1.5" />
+      <module name="java-collection" target="1.5" />
+      <module name="java-design-module" target="1.5" />
+      <module name="java-event" target="1.5" />
+      <module name="java-io" target="7" />
+      <module name="java-jvm" target="1.5" />
+      <module name="java-lock" target="1.5" />
+      <module name="java-mybatis" target="1.5" />
+      <module name="java-sort" target="1.5" />
+      <module name="java-thread" target="1.5" />
+      <module name="thread_demo_1" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

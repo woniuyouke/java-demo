@@ -1,0 +1,24 @@
+1.如何控制线程执行的顺序？
+join 调用这个方法的线程进行阻塞,当线程实例对应的线程完结之后停止阻塞。
+Executors.newSingleThreadExecutor();核心线程数量为1的线程池。
+2.volatile 和 synchronized 关键字的区别?
+    2.1 JMM：
+        java memory module 用于并发过程中的可见性,原子性，一致性问题。
+        2.1.1
+        线程之间如何通信？
+        隐示通信：内存共享
+        显示通信：消息传递
+        2.1.2
+        线程之间如何同步?
+     2.2synchronized 锁机制
+        2.2.1
+        锁什么时候释放
+        代码块执行完成或者发生异常
+     2.3 synchronized和缺陷
+        被动释放锁
+3.lock
+lock是一个api,synchronized是一个关键字
+    可重入锁
+    中断锁
+    读写锁
+    公平锁
